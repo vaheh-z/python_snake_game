@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyCharm project files
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
