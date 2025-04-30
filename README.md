@@ -1,1 +1,1 @@
-# python_snake_game
+# Python Snake game based on Turtle
